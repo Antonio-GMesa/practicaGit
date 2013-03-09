@@ -11,8 +11,8 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
-	System.out.println("modificado por Antonio GMesa"); // Antonio García Mesa
-
+	System.out.println("modificado por Antonio GMesa"); // Antonio García Mesa desde portatil
+	System.out.println("modificado posteriormente por Antonio GM"); // Antonio García Mesa desde sobremesa
 
     }
     
